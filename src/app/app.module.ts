@@ -14,14 +14,14 @@ import { AngularFirestoreModule } from "@angular/fire/firestore";
 import { FirebaseX } from "@ionic-native/firebase-x/ngx";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDs1mSuA1aEnPDnSMziir_zwFaoJ7nUxKs",
-  authDomain: "fcm-test-e3a82.firebaseapp.com",
-  databaseURL: "https://fcm-test-e3a82.firebaseio.com",
-  projectId: "fcm-test-e3a82",
-  storageBucket: "fcm-test-e3a82.appspot.com",
-  messagingSenderId: "620503050320",
-  appId: "1:620503050320:web:9549eca134dc9ee782c955"
-};
+  apiKey: "AIzaSyCNDJsSFm2pqN-cuvXriV_bNOTimgV_2wU",
+  authDomain: "blue-5599e.firebaseapp.com",
+  databaseURL: "https://blue-5599e.firebaseio.com",
+  projectId: "blue-5599e",
+  storageBucket: "blue-5599e.appspot.com",
+  messagingSenderId: "390087219274",
+  appId: "1:390087219274:web:1645429ca8cfd0b8d9aeb3"
+}
 
 @NgModule({
   declarations: [AppComponent],

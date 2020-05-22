@@ -1,35 +1,42 @@
 {
   "project_info": {
-    "project_number": "620503050320",
-    "firebase_url": "https://fcm-test-e3a82.firebaseio.com",
-    "project_id": "fcm-test-e3a82",
-    "storage_bucket": "fcm-test-e3a82.appspot.com"
+    "project_number": "390087219274",
+    "firebase_url": "https://blue-5599e.firebaseio.com",
+    "project_id": "blue-5599e",
+    "storage_bucket": "blue-5599e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:620503050320:android:ee5b8d2544fd400a82c955",
+        "mobilesdk_app_id": "1:390087219274:android:87051f24c38049d0d9aeb3",
         "android_client_info": {
-          "package_name": "com.fcm.test"
+          "package_name": "com.bluesystems.gabriel"
         }
       },
       "oauth_client": [
         {
-          "client_id": "620503050320-0kjhqjljj0e5cmnb2n16mr3ols0ofapn.apps.googleusercontent.com",
+          "client_id": "390087219274-cq25but35gvls3d374ib7ggf6at5gtt5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAm-0vdia8dLvQ32I4Z78tc2-qJWHpMjZg"
+          "current_key": "AIzaSyC-SXeXfy3h1yuqxCH60-if1fwLgokJCuY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "620503050320-0kjhqjljj0e5cmnb2n16mr3ols0ofapn.apps.googleusercontent.com",
+              "client_id": "390087219274-cq25but35gvls3d374ib7ggf6at5gtt5.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "390087219274-qvnh11ssfp5drlsf0d89jv1lfvir6vqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluesystems.gabriel"
+              }
             }
           ]
         }

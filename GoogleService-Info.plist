@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>620503050320-s890m7762jabsf1cbmdrokrjjaam7ld5.apps.googleusercontent.com</string>
+	<string>390087219274-qvnh11ssfp5drlsf0d89jv1lfvir6vqs.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.620503050320-s890m7762jabsf1cbmdrokrjjaam7ld5</string>
+	<string>com.googleusercontent.apps.390087219274-qvnh11ssfp5drlsf0d89jv1lfvir6vqs</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAwFRgI--MuPfCN59jafcs9ZvgUBOJhB20</string>
+	<string>AIzaSyBN8ir3mNrrZuM2HH2CkgLioQ_-EXTxqT0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>620503050320</string>
+	<string>390087219274</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.fcm.test</string>
+	<string>com.bluesystems.gabriel</string>
 	<key>PROJECT_ID</key>
-	<string>fcm-test-e3a82</string>
+	<string>blue-5599e</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fcm-test-e3a82.appspot.com</string>
+	<string>blue-5599e.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:620503050320:ios:1ebbb6ff1e10fe0d82c955</string>
+	<string>1:390087219274:ios:43c155a36a3a285bd9aeb3</string>
 	<key>DATABASE_URL</key>
-	<string>https://fcm-test-e3a82.firebaseio.com</string>
+	<string>https://blue-5599e.firebaseio.com</string>
 </dict>
 </plist>
