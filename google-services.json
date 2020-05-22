@@ -1,42 +1,35 @@
 {
   "project_info": {
-    "project_number": "868567145958",
-    "firebase_url": "https://acoustic-env-269811.firebaseio.com",
-    "project_id": "acoustic-env-269811",
-    "storage_bucket": "acoustic-env-269811.appspot.com"
+    "project_number": "620503050320",
+    "firebase_url": "https://fcm-test-e3a82.firebaseio.com",
+    "project_id": "fcm-test-e3a82",
+    "storage_bucket": "fcm-test-e3a82.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:868567145958:android:9b567978f8903f23b9ca27",
+        "mobilesdk_app_id": "1:620503050320:android:ee5b8d2544fd400a82c955",
         "android_client_info": {
           "package_name": "com.fcm.test"
         }
       },
       "oauth_client": [
         {
-          "client_id": "868567145958-89jgnmoq1gq6bg04fisp8mni7vfrl5kf.apps.googleusercontent.com",
+          "client_id": "620503050320-0kjhqjljj0e5cmnb2n16mr3ols0ofapn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCu3LkZep9SQlRy5li7LvUdpBflGaw02Qo"
+          "current_key": "AIzaSyAm-0vdia8dLvQ32I4Z78tc2-qJWHpMjZg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "868567145958-89jgnmoq1gq6bg04fisp8mni7vfrl5kf.apps.googleusercontent.com",
+              "client_id": "620503050320-0kjhqjljj0e5cmnb2n16mr3ols0ofapn.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "868567145958-g3r0n1nqguq5e7sedfvt3kuhv3sinppg.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.fcm.test"
-              }
             }
           ]
         }
