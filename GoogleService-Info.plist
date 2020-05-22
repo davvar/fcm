@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>868567145958-g3r0n1nqguq5e7sedfvt3kuhv3sinppg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.868567145958-g3r0n1nqguq5e7sedfvt3kuhv3sinppg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQwchMN8a_WhTpoNVDE4vWXvFiNxL5DxI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>868567145958</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fcm.test</string>
+	<key>PROJECT_ID</key>
+	<string>acoustic-env-269811</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acoustic-env-269811.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:868567145958:ios:e317b7fdf5da9e04b9ca27</string>
+	<key>DATABASE_URL</key>
+	<string>https://acoustic-env-269811.firebaseio.com</string>
+</dict>
+</plist>

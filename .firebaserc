@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "acoustic-env-269811": {
+      "hosting": {
+        "app": [
+          "acoustic-env-269811"
+        ]
+      }
+    }
+  }
+}
